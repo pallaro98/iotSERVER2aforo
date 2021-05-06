@@ -1,0 +1,4 @@
+applications:
+- name: server2
+  random-route: true
+  memory: 128M
